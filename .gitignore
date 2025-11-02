@@ -1,0 +1,3 @@
+session*\n*.session\n*.journal
+"session*"
+"*.session*"
